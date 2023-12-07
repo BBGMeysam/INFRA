@@ -1,4 +1,10 @@
-Die Benutzung des Programms soll ausschließlich für FiveM benutzt werden nicht für GTA -> Global BAN
+Anleitung zur Löschung des Caches in FIVEM
 
-WO Datei einfügen:
-FiveM -> Dateifad öffnen
+Suche des Ordners:
+FiveM -> Dateifad öffnen -> Dateipfad von FIVEM Verknüpfung öffnen -> Application Data -> Data
+
+Alle Ordner die mit Cache anfangen sowie mit Cache enden können gelöscht werden.
+
+"Server-Cache" sowie "Cache" verbrauchen am meisten Speicher.
+
+"server-chache-priv" am wenigsten -> (muss) nicht gelöscht werden.
