@@ -26,3 +26,7 @@ GTA Verzeichnis finden -> x64 -> audio -> sfx
 
 Datein einfügen und ggf. die vorhanden Datein eretzen(nicht überspringen).
 
+
+**Sonstiges**
+NVE wird in -> MODS abgelegt 
+Verzeichnis ist in **APPLICATION DATA**
