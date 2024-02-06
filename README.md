@@ -18,6 +18,7 @@ Alle Ordner die mit Cache anfangen sowie mit Cache enden können gelöscht werde
 Es beötigt immer 2 Datein:
 
 -WEAPONS_PLAYER.rpf
+
 -RESIDENT.rpf
 
 **Diese müssen in folgendem Ordner abgelegt werden**
